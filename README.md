@@ -6,7 +6,7 @@
 2. Megan Aldinger [@meganaldinger](https://github.com/meganaldinger)
 3. Patrick Daws [@PatrickD93](https://github.com/PatrickD93)
 4. Priya Dey [@priyaadey](https://www.github.com/priyaadey)
-5. Lucy Moon [https://github.com/lucymoon505/4610GroupProject2/tree/main)
+5. Lucy Moon [@lucymoon505](https://github.com/lucymoon505/4610GroupProject2/tree/main)
 6. Ansley Williams [@ansleymw](https://github.com/ansleymw/ansley4610)
 
 ## Description of Data Set
