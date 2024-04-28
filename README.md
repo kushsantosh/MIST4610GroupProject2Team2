@@ -7,7 +7,7 @@
 3. Patrick Daws [@PatrickD93](https://github.com/PatrickD93)
 4. Priya Dey [@priyaadey](https://www.github.com/priyaadey)
 5. Lucy Moon [@lucymoon505](https://github.com/lucymoon505/4610GroupProject2/tree/main)
-6. Ansley Williams [@ansleymw](https://github.com/ansleymw/ansley4610)
+6. Ansley Williams [@ansleymw](https://github.com/ansleymw/MIST4610GroupProject2Team2)
 
 ## Description of Data Set
 The Real Estate Sales 2001-2021 dataset is an extensive record of real estate transactions compiled annually from October 1 to September 30 in Connecticut. It encompasses all sales exceeding $2,000 within this period, detailing vital information like the sale's town, property address, date, property type (ranging from residential to commercial and vacant land), sales price, and property assessment.
